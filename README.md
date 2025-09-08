@@ -14,7 +14,7 @@
 ---
 
 ## 📌 Proyectos destacados
-🔹 [GamerVault]([https://github.com/Toni7998](https://github.com/Toni7998/GamerVault)) – Aplicación web para organizar y compartir experiencias gamer.  
+🔹 [GamerVault](https://github.com/Toni7998/GamerVault) – Aplicación web para organizar y compartir experiencias gamer.  
 
 ---
 
