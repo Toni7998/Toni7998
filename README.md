@@ -25,7 +25,6 @@
 ---
 
 ## 📫 Cómo contactarme
-- GitHub: [@Toni7998](https://github.com/Toni7998)  
 - Email: *a.ruiz.tapia04@gmail.com*  
 
 ---
